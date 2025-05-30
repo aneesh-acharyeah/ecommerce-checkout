@@ -63,8 +63,7 @@ https://ecommerce-checkout.infinityfreeapp.com
 --- 
 
 ## 🖼️ Screenshots
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/aneesh-acharyeah/ecommerce-checkout/blob/main/image1.png))
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/aneesh-acharyeah/ecommerce-checkout/blob/main/image2.png))
+ 
 
