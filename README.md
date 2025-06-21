@@ -52,9 +52,7 @@ Emails are sent to the user’s provided email using Mailtrap:
 
 - Images are stored as URLs in the database
 
-
 ---
-
 
 # 🌍 Live Demo
 https://ecommerce-checkout.infinityfreeapp.com
